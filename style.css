@@ -2,3 +2,23 @@
     background-color: blueviolet;
     text-align: center;
 }
+
+.nav-bar {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    background-color: rgb(200, 157, 241);
+}
+
+.nav-item {
+    padding: 1rem;
+}
+.nav-link {
+    color: black;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: antiquewhite;
+}
