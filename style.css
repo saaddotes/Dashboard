@@ -3,6 +3,20 @@
     text-align: center;
 }
 
+.footer-copy {
+    position: relative;
+    top: 600px;
+
+}
+
+.footer-copy>div {
+    background-color: gray;
+}
+
+.footer-copy>div>p {
+    text-align: center;
+}
+
 .nav-bar {
     display: flex;
     gap: 1rem;
